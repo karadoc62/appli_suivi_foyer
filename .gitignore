@@ -1,0 +1,20 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Java / Gradle
+backend/.gradle/
+backend/build/
+
+# Angular / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
